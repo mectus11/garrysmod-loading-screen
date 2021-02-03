@@ -1,11 +1,6 @@
 # garrysmod-loading-screen
 A bootstrap garry's mod loading screen.
 
-Live Demo = http://energic.j3w.biz/loadingscreen/
-<br>
-Check out https://faafnetwork.net for garry's mod gaming servers.
-
-
 <h2>Features</h2>
 <ul style="line-height: 1.6;">   
 		
