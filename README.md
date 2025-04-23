@@ -1,14 +1,22 @@
 # garrysmod-loading-screen
 A bootstrap garry's mod loading screen.
 
+Live Demo = http://energic.j3w.biz/loadingscreen/
+<br>
+Check out https://faafnetwork.net for garry's mod gaming servers.
+
+
 <h2>Features</h2>
-<ul style="line-height: 1.6;">   		
+<ul style="line-height: 1.6;">   
+		
+		
 <li>Slideshow background</li>
 <li>Random music with auto-play in the background.</li>
 <li>Steam playername, avatar and current map in play.</li>
 <li>Music title.</li>
 <li>Rules list.</li>
- </ul>
+
+                    </ul>
                     
 <h2>How to use properly</h2>
 Put up to 3 or more music files in .ogg-format in the music folder. They must be named 1.ogg, 2.ogg and 3.ogg!<br>
